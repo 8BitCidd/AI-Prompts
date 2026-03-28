@@ -1,3 +1,2 @@
 # AI-Prompts
-This repositry is for storing AI prompts. 
-This repositiry will include AI prompt templates that provide a decent enough product as a base to work from.
+This repositry is for storing AI prompts and templates that have proven to provide a decent enough product as a base to work from.
