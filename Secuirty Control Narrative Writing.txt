@@ -1,0 +1,4 @@
+# AI Security Control Narrative Template
+
+# The purpose of this prompt is to use the provided resources to generate clear, standardized language that serves as a flexible baseline template, adaptable to any system and its control set based on NIST 800-53 Rev5 and CSF 2.0 Documentation.
+
